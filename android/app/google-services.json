@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "503267501606",
+    "project_id": "milkretail-dd9b6",
+    "storage_bucket": "milkretail-dd9b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503267501606:android:76a5c4bd3022a137dba8e7",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503267501606-loidoo2719e0gd3tg6p6mkuu3dhult2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterapp",
+            "certificate_hash": "5db7a048a3459bff9eb8cd1c8fcb36758118703d"
+          }
+        },
+        {
+          "client_id": "503267501606-3rva7hn4t4lj8l666ll8qj9okfo2m9ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlG8vy8ERNmvOFdbEb_KUADIXk7o5m2QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503267501606-3rva7hn4t4lj8l666ll8qj9okfo2m9ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
